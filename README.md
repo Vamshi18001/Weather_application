@@ -25,9 +25,3 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 
 #Dependencies
 * OpenWeatherMap API: The application fetches weather data from the OpenWeatherMap API.
-
-#Contributing
-* Contributions are welcome! If you have suggestions for improvement, open an issue or create a pull request.
-
-#License
-* This project is licensed under the MIT License.
