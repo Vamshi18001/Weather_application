@@ -1,12 +1,12 @@
 # Weather_application
 This is a simple weather application that allows users to get real-time weather information for a specific city. The application is built using HTML, CSS, and JavaScript, and it utilizes the OpenWeatherMap API to fetch weather data.
 
-Features
+# Features
 * User Input: Users can enter the name of a city to get the current weather details.
 * Display: The application displays information such as temperature, wind speed, humidity and visibility.
 * Responsive Design: The application has a responsive design for a better user experience on various devices.
 
-#Getting Started
+# Getting Started
 
 Follow these steps to run the weather application locally:
 
