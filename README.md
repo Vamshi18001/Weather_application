@@ -1,10 +1,10 @@
-# Weather_application
+![clear](https://github.com/Vamshi18001/Weather_application/assets/162323071/7124c3a6-f950-482d-9323-bcadfe8de321)# Weather_application
 This is a simple weather application that allows users to get real-time weather information for a specific city. The application is built using HTML, CSS, and JavaScript, and it utilizes the OpenWeatherMap API to fetch weather data.
 
 Features
-User Input: Users can enter the name of a city to get the current weather details.
-Display: The application displays information such as temperature, wind speed and visibility.
-Responsive Design: The application has a responsive design for a better user experience on various devices.
+* User Input: Users can enter the name of a city to get the current weather details.
+* Display: The application displays information such as temperature, wind speed, humidity and visibility.
+* Responsive Design: The application has a responsive design for a better user experience on various devices.
 
 #Getting Started
 
