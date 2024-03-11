@@ -15,7 +15,7 @@ Follow these steps to run the weather application locally:
 * Enter the name of the city in the input field and click the search icon.
 * View the real-time weather information for the specified city.
 
-#Configuration
+# Configuration
 
 To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps:
 * Visit the OpenWeatherMap website and sign up for a free account.
@@ -23,5 +23,5 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 * Replace the placeholder 'YOUR_OPENWEATHERMAP_API_KEY' in the script.js file with your actual API key.
 * That is const apiKey = 'YOUR_OPENWEATHERMAP_API_KEY';
 
-#Dependencies
+# Dependencies
 * OpenWeatherMap API: The application fetches weather data from the OpenWeatherMap API.
