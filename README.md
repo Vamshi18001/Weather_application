@@ -10,6 +10,7 @@ Responsive Design: The application has a responsive design for a better user exp
 
 Follow these steps to run the weather application locally:
 
+>Clone the repository to your local machine.
 > Open the index.html file in your preferred web browser.
 > Enter the name of the city in the input field and click the search icon.
 > View the real-time weather information for the specified city.
